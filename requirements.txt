@@ -13,7 +13,7 @@ debtags==2.0
 decorator==4.0.11
 defer==1.0.6
 dirspec==13.10
-Django==1.10.4
+Django==1.11.28
 duplicity==0.7.6
 ecdsa==0.13
 enum34==1.1.2
