@@ -95,6 +95,6 @@ virtualenv-clone==0.2.6
 virtualenvwrapper==4.7.1
 vobject==0.8.1rc0
 wakeup==1.4
-Werkzeug==0.10.1
+Werkzeug==0.15.3
 WTForms==2.0.2
 zope.interface==4.1.3
