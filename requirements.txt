@@ -83,7 +83,7 @@ SQLAlchemy==0.9.9
 stevedore==1.18.0
 subprocess32==3.2.7
 trollius==2.0.1
-Twisted==16.0.0
+Twisted==20.3.0
 txaio==1.0.0
 ubuntuone-client-data==14.4
 Unidecode==0.4.19
