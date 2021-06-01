@@ -88,7 +88,7 @@ txaio==1.0.0
 ubuntuone-client-data==14.4
 Unidecode==0.4.19
 unity-lens-photos==1.0
-urllib3==1.13.1
+urllib3==1.26.5
 uTidylib==0.2
 virtualenv==15.0.1
 virtualenv-clone==0.2.6
